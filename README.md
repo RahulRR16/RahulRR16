@@ -26,6 +26,20 @@ Here are some of my featured projects. Click on each project for more details.
 
 🔗 [Project Repository](https://github.com/RahulRR16/RWeather)(#)
 
+### 📱 Speedometer
+**Description:** I developed a custom speedometer UI programmatically using CAShapeLayer to create the circular design, along with CAGradientLayer for a smooth gradient effect. The animation is handled using CABasicAnimation, ensuring a dynamic and visually appealing transition when the speed changes.
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/2c07825f-3c20-463b-9ff4-966d11394eca", width="200", height="300"/>!
+<img src="https://github.com/user-attachments/assets/4431af65-557f-47be-824a-2d1f410c182d", width="200",height="300" />
+</p>
+
+**Tech Used:**
+- Custom Circular UI: Built using CAShapeLayer to define the arc and speed indicator
+- Gradient Effect: Applied with CAGradientLayer for a polished look
+- Smooth Animations: Implemented using CABasicAnimation to update the speed dynamically
+- Performance Optimized: Efficient rendering without excessive CPU/GPU load
+
 ---
 
 ## 📞 Contact Me
