@@ -1,7 +1,7 @@
 # iOS Developer Portfolio
 
 ## 👋 About Me
-Hi! I'm an iOS Developer with 5 years of experience building high-quality, user-friendly applications. Passionate about clean architecture, Swift programming, and crafting seamless user experiences.
+Hi! I'm an iOS Engineer with a strong background in building high-quality, user-friendly applications. Passionate about clean architecture, Swift programming, and crafting seamless user experiences.
 
 - 💻 Proficient in Swift, UIKit, SwiftUI, Combine, and CoreData.
 - 🔹 Experienced in MVC, MVVM, and Clean Architecture.
