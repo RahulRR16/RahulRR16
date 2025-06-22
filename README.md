@@ -30,9 +30,9 @@ Here are some of my featured projects. Click on each project for more details.
 **Description:** A professional-grade iOS application that transforms voice recordings with studio-quality effects along with Real-time audio processing with 6 effects.
 
 <p align="center">
+<img src="https://github.com/user-attachments/assets/1158bbe3-0b63-41d0-b2bc-5918275e5a07", width="200", height="300"/>
 <img src="https://github.com/user-attachments/assets/0fc072d0-ba1b-4fbd-94ca-3459d61c2549", width="200", height="355"/>
 <img src="https://github.com/user-attachments/assets/635eead6-8af6-4ba0-ae1f-9b81333f8c02", width="200",height="300" />
-<img src="https://github.com/user-attachments/assets/1158bbe3-0b63-41d0-b2bc-5918275e5a07", width="200", height="300"/>
 </p>
 
 **Tech Used:**
