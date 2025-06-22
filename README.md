@@ -26,6 +26,21 @@ Here are some of my featured projects. Click on each project for more details.
 
 🔗 [Project Repository](https://github.com/RahulRR16/RWeather)(#)
 
+### 📱 VoiceR
+**Description:** A professional-grade iOS application that transforms voice recordings with studio-quality effects with Real-time audio processing with 6 effects.
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/0fc072d0-ba1b-4fbd-94ca-3459d61c2549", width="200", height="355"/>
+<img src="https://github.com/user-attachments/assets/635eead6-8af6-4ba0-ae1f-9b81333f8c02", width="200",height="300" />
+<img src="https://github.com/user-attachments/assets/d033f937-1179-45ac-9763-ffe3ae38ff18", width="200", height="300"/>
+</p>
+
+**Tech Used:**
+- Swift
+- UIKit
+- AVFoundation Framework
+- Protocol-Oriented Audio Processing
+
 ### 📱 Speedometer
 **Description:** I developed a custom speedometer UI programmatically using CAShapeLayer to create the circular design, along with CAGradientLayer for a smooth gradient effect. The animation is handled using CABasicAnimation, ensuring a dynamic and visually appealing transition when the speed changes.
 
