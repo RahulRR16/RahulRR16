@@ -32,7 +32,7 @@ Here are some of my featured projects. Click on each project for more details.
 <p align="center">
 <img src="https://github.com/user-attachments/assets/0fc072d0-ba1b-4fbd-94ca-3459d61c2549", width="200", height="355"/>
 <img src="https://github.com/user-attachments/assets/635eead6-8af6-4ba0-ae1f-9b81333f8c02", width="200",height="300" />
-<img src="https://github.com/user-attachments/assets/d033f937-1179-45ac-9763-ffe3ae38ff18", width="200", height="300"/>
+<img src="https://github.com/user-attachments/assets/05230819-7d38-480e-ac70-1299508b07b4", width="200", height="300"/>
 </p>
 
 **Tech Used:**
