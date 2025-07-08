@@ -10,7 +10,7 @@ Hi! I'm an iOS Engineer with a strong background in building high-quality, user-
 ## 📂 Projects
 Here are some of my featured projects. Click on each project for more details.
 ### 📱 NotesR
-**Description:** A privacy-focused notes app with robust passcode protection and biometric access. The app securely encrypts all notes using AES-256-GCM encryption and stores them in the device's secure enclave.
+**Description:** A privacy-focused notes app with robust passcode protection and biometric authentication. The app securely encrypts all notes using AES-256-GCM encryption and stores them in the device's secure enclave. and a polished, app-store-like UI with full dark mode support. NotesR complies with OWASP Mobile Top 10 standards for local data handling, authentication, and encryption.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/f7748078-008b-42cd-8552-2a308a94f2e6", width="200", height="355"/>
