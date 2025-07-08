@@ -9,6 +9,23 @@ Hi! I'm an iOS Engineer with a strong background in building high-quality, user-
 
 ## 📂 Projects
 Here are some of my featured projects. Click on each project for more details.
+### 📱 NotesR
+**Description:** A privacy-focused notes app with robust passcode protection and biometric access. The app securely encrypts all notes using AES-256-GCM encryption and stores them in the device's secure enclave.
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/f7748078-008b-42cd-8552-2a308a94f2e6", width="200", height="355"/>
+<img src="https://github.com/user-attachments/assets/33f118c7-fcf0-4637-9cc1-d06cfa005ed8", width="200",height="300" />
+<img src="https://github.com/user-attachments/assets/f75e23c9-9520-46c5-a6d8-ad72abaadc35", width="200", height="300"/>
+</p>
+
+**Tech Used:**
+- SwiftUI
+- CryptoKit
+- Keychain Services
+- Local Authentication
+
+🔗 [Project Repository](https://github.com/RahulRR16/NotesR)(#)
+
 ### 📱 RWeather
 **Description:** A sleek and modern weather app built entirely with SwiftUI, designed to provide real-time weather information and a 5-day forecast for any location. This app showcases the power of SwiftUI for building beautiful, responsive, and dynamic user interfaces.
 
