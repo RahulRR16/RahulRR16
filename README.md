@@ -44,7 +44,7 @@ Here are some of my featured projects. Click on each project for more details.
 🔗 [Project Repository](https://github.com/RahulRR16/RWeather)(#)
 
 ### 📱 VoiceR
-**Description:** A professional-grade iOS application that transforms voice recordings with studio-quality effects along with Real-time audio processing with 6 effects.
+**Description:** A professional-grade iOS application that transforms voice recordings with studio-quality effects along with Real-time audio processing. this app delivers six real-time audio effects for dynamic voice enhancement. Users can instantly apply effects while playback, save the processed audio directly to their device, or share it with others effortlessly.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/1158bbe3-0b63-41d0-b2bc-5918275e5a07", width="200", height="300"/>
