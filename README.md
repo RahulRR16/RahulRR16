@@ -31,8 +31,8 @@ Here are some of my featured projects. Click on each project for more details.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/ad690f1e-94fb-4b5e-a824-d9e8cb4be17e", width="200", height="355"/>
-<img src="https://github.com/user-attachments/assets/d25e8a4d-07e4-4629-a9a2-301871d4f461", width="200",height="300" />
-<img src="https://github.com/user-attachments/assets/71755b59-174c-45f6-a3e8-405615721ad5", width="200", height="300"/>
+<img src="https://github.com/user-attachments/assets/eb662fab-d0cf-46c0-8c47-f5f36d2be61b", width="200",height="300" />
+<img src="https://github.com/user-attachments/assets/15e6138d-28a3-4206-9676-5bee7b3b7c04", width="200", height="300"/>
 </p>
 
 **Tech Used:**
