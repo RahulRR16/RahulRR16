@@ -26,23 +26,6 @@ Here are some of my featured projects. Click on each project for more details.
 
 🔗 [Project Repository](https://github.com/RahulRR16/NotesR)(#)
 
-### 📱 RWeather
-**Description:** A sleek and modern weather app built entirely with SwiftUI, designed to provide real-time weather information and a 5-day forecast for any location. This app showcases the power of SwiftUI for building beautiful, responsive, and dynamic user interfaces.
-
-<p align="center">
-<img src="https://github.com/user-attachments/assets/7a87d1cd-3c11-4a7d-ab25-f2e1c57eafb1", width="200", height="355"/>
-<img src="https://github.com/user-attachments/assets/eb662fab-d0cf-46c0-8c47-f5f36d2be61b", width="200",height="300" />
-<img src="https://github.com/user-attachments/assets/15e6138d-28a3-4206-9676-5bee7b3b7c04", width="200", height="300"/>
-</p>
-
-**Tech Used:**
-- SwiftUI
-- MVVM
-- Core Location
-- OpenWeatherMap API
-
-🔗 [Project Repository](https://github.com/RahulRR16/RWeather)(#)
-
 ### 📱 VoiceR
 **Description:** A professional-grade iOS application that transforms voice recordings with studio-quality effects along with Real-time audio processing. this app delivers six real-time audio effects for dynamic voice enhancement. Users can instantly apply effects while playback, save the processed audio directly to their device, or share it with others effortlessly.
 
@@ -59,6 +42,23 @@ Here are some of my featured projects. Click on each project for more details.
 - Protocol-Oriented Audio Processing
 
 🔗 [Project Repository](https://github.com/RahulRR16/VoiceR)(#)
+
+### 📱 RWeather
+**Description:** A sleek and modern weather app built entirely with SwiftUI, designed to provide real-time weather information and a 5-day forecast for any location. This app showcases the power of SwiftUI for building beautiful, responsive, and dynamic user interfaces.
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/7a87d1cd-3c11-4a7d-ab25-f2e1c57eafb1", width="200", height="355"/>
+<img src="https://github.com/user-attachments/assets/eb662fab-d0cf-46c0-8c47-f5f36d2be61b", width="200",height="300" />
+<img src="https://github.com/user-attachments/assets/15e6138d-28a3-4206-9676-5bee7b3b7c04", width="200", height="300"/>
+</p>
+
+**Tech Used:**
+- SwiftUI
+- MVVM
+- Core Location
+- OpenWeatherMap API
+
+🔗 [Project Repository](https://github.com/RahulRR16/RWeather)(#)
 
 ### 📱 Speedometer
 **Description:** I developed a custom speedometer UI programmatically using CAShapeLayer to create the circular design, along with CAGradientLayer for a smooth gradient effect. The animation is handled using CABasicAnimation, ensuring a dynamic and visually appealing transition when the speed changes.
