@@ -30,7 +30,7 @@ Here are some of my featured projects. Click on each project for more details.
 **Description:** A sleek and modern weather app built entirely with SwiftUI, designed to provide real-time weather information and a 5-day forecast for any location. This app showcases the power of SwiftUI for building beautiful, responsive, and dynamic user interfaces.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/ad690f1e-94fb-4b5e-a824-d9e8cb4be17e", width="200", height="355"/>
+<img src="https://github.com/user-attachments/assets/7a87d1cd-3c11-4a7d-ab25-f2e1c57eafb1", width="200", height="355"/>
 <img src="https://github.com/user-attachments/assets/eb662fab-d0cf-46c0-8c47-f5f36d2be61b", width="200",height="300" />
 <img src="https://github.com/user-attachments/assets/15e6138d-28a3-4206-9676-5bee7b3b7c04", width="200", height="300"/>
 </p>
