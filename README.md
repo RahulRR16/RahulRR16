@@ -5,10 +5,29 @@ Hi! I'm an iOS Engineer with a strong background in building high-quality, user-
 
 - 💻 Proficient in Swift, UIKit, SwiftUI, Combine, and CoreData.
 - 🔹 Experienced in MVC, MVVM, and Clean Architecture.
-- 🚀 Passionate about performance optimization and best coding practices.
+- 🚀 Passionate about performance optimization, DevSecOps and best coding practices.
 
 ## 📂 Projects
 Here are some of my featured projects. Click on each project for more details.
+
+### 🏦 BankCore (Secure FinTech Demo)
+**Description:** A proof-of-concept iOS framework designed to demonstrate **Secure DevSecOps** practices. While the banking logic is simplified for demonstration purposes, the surrounding infrastructure implements a production-grade security pipeline standard in modern FinTech environments.
+
+**Key Skills Demonstrated:**
+* **DevSecOps Architecture:** Built a fully automated GitHub Actions pipeline that blocks insecure code before it merges.
+* **Supply Chain Security:** Integrated **Gitleaks** and **GitHub Push Protection** to prevent API key leaks.
+* **Test Automation:** configured a **TDD workflow** that runs XCTest suites on an iPhone 16 Simulator in the cloud.
+* **Release Engineering:** Managed Xcode Schemes and Targets to separate Test logic from Production builds.
+
+<p align="left">
+  <img src="https://github.com/RahulRR16/BankCore/actions/workflows/ios-test.yml/badge.svg" alt="CI Status" />
+  <img src="https://img.shields.io/badge/Security-OWASP_MASVS-blue?style=flat&logo=github" alt="Security Rating" />
+</p>
+
+**Tech Stack:** Swift 6, GitHub Actions, Gitleaks, XCTest.
+
+🔗 [Project Repository](https://github.com/RahulRR16/BankCore)
+
 ### 📱 NotesR
 **Description:** A privacy-focused notes app with robust passcode protection and biometric authentication. The app securely encrypts all notes using AES-256-GCM encryption and stores them in the device's secure enclave. and a polished, app-store-like UI with full dark mode support. NotesR complies with OWASP Mobile Top 10 standards for local data handling, authentication, and encryption.
 
@@ -18,11 +37,7 @@ Here are some of my featured projects. Click on each project for more details.
 <img src="https://github.com/user-attachments/assets/f75e23c9-9520-46c5-a6d8-ad72abaadc35", width="200", height="300"/>
 </p>
 
-**Tech Used:**
-- SwiftUI
-- CryptoKit
-- Keychain Services
-- Local Authentication
+**Tech Used:** SwiftUI, CryptoKit, Keychain Services, Local Authentication
 
 🔗 [Project Repository](https://github.com/RahulRR16/NotesR)(#)
 
@@ -35,11 +50,7 @@ Here are some of my featured projects. Click on each project for more details.
 <img src="https://github.com/user-attachments/assets/635eead6-8af6-4ba0-ae1f-9b81333f8c02", width="200",height="300" />
 </p>
 
-**Tech Used:**
-- Swift
-- UIKit
-- AVFoundation Framework
-- Protocol-Oriented Audio Processing
+**Tech Used:** Swift, UIKit, AVFoundation Framework, Protocol-Oriented Audio Processing
 
 🔗 [Project Repository](https://github.com/RahulRR16/VoiceR)(#)
 
@@ -52,11 +63,7 @@ Here are some of my featured projects. Click on each project for more details.
 <img src="https://github.com/user-attachments/assets/15e6138d-28a3-4206-9676-5bee7b3b7c04", width="200", height="300"/>
 </p>
 
-**Tech Used:**
-- SwiftUI
-- MVVM
-- Core Location
-- OpenWeatherMap API
+**Tech Used:** SwiftUI, MVVM, Core Location, OpenWeatherMap API
 
 🔗 [Project Repository](https://github.com/RahulRR16/RWeather)(#)
 
