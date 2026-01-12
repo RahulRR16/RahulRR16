@@ -1,4 +1,4 @@
-# iOS Developer Portfolio
+# iOS Engineer Portfolio
 
 ## 👋 About Me
 Hi! I'm an iOS Engineer with a strong background in building high-quality, user-friendly applications. Passionate about clean architecture, Swift programming, and crafting seamless user experiences.
