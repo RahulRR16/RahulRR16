@@ -20,7 +20,7 @@ Here are some of my featured projects. Click on each project for more details.
 * **Release Engineering:** Managed Xcode Schemes and Targets to separate Test logic from Production builds.
 
 <p align="left">
-  <img src="https://github.com/RahulRR16/BankCore/actions/workflows/ios-test.yml/badge.svg" alt="CI Status" />
+  <img src="https://github.com/RahulRR16/BankCore/actions/workflows/main.yml/badge.svg" alt="CI Status" />
   <img src="https://img.shields.io/badge/Security-OWASP_MASVS-blue?style=flat&logo=github" alt="Security Rating" />
 </p>
 
