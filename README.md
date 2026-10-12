@@ -1,11 +1,9 @@
-# iOS Engineer Portfolio
+# iOS Engineer | Rahul Balakrishnan
 
 ## 👋 About Me
-Hi! I'm an iOS Engineer with a strong background in building high-quality, user-friendly applications. Passionate about Swift programming, and crafting seamless user experiences.
+iOS Engineer with 4+ years of professional experience building native iOS applications using Swift, UIKit and SwiftUI, including fintech and privacy-focused applications.
 
-- 💻 Proficient in Swift, UIKit, SwiftUI, Combine, and CoreData.
-- 🔹 Experienced in MVC and MVVM.
-- 🚀 Passionate about performance optimization, DevSecOps and best coding practices.
+🌐 **[View My Portfolio](https://rahulrr16.github.io/portfolio/)**
 
 ## 📂 Projects
 Here are some of my featured projects. Click on each project for more details.
